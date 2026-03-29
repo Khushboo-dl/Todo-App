@@ -6,13 +6,7 @@ A beautiful and minimal Todo App built using HTML, CSS, and JavaScript to manage
 
 🚀 Live Demo
 
-👉 https://your-username.github.io/todo-app/
-
----
-
-📸 Preview
-
-"App Screenshot" (screenshot.png)
+👉 https://khushboo-dl.github.io/Todo-App/
 
 ---
 
